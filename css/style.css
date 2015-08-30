@@ -1,0 +1,274 @@
+body {
+   font-family: 'Thaisans Neue';
+}
+@font-face {
+    font-family: 'ThaiSans Neue';
+        src: url('../fonts/Thaisans Neue/ThaiSansNeue-Regular.eot');
+        src: url('../fonts/Thaisans Neue/ThaiSansNeue-Regular.eot') format('embedded-opentype'),
+        url('../fonts/Thaisans Neue/ThaiSansNeue-Regular.woff') format('woff'),
+        url('../fonts/Thaisans Neue/ThaiSansNeue-Regular.ttf') format('truetype'),
+        url('../fonts/Thaisans Neue/ThaiSansNeue-Regular.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal
+}
+@font-face {
+    font-family: 'ThaiSans Neue-ExtraBold';
+        src: url('../fonts/Thaisans Neue/ThaiSansNeue-ExtraBold.eot');
+        src: url('../fonts/Thaisans Neue/ThaiSansNeue-ExtraBold.eot?') format('embedded-opentype'),
+        url('../fonts/Thaisans Neue/ThaiSansNeue-ExtraBold.woff') format('woff'),
+        url('../fonts/Thaisans Neue/ThaiSansNeue-ExtraBold.ttf') format('truetype'),
+        url('../fonts/Thaisans Neue/ThaiSansNeue-ExtraBold.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal
+}
+@media all and (max-device-width: 768px) and (orientation:portrait) {
+    .menu {
+        max-height: 844px !important;
+    }
+}
+@media all and (max-device-width: 768px) and (orientation:landscape) {
+    .menu {
+        max-height: 588px !important;
+    }
+}
+@media all and (max-device-width: 320px) and (device-aspect-ratio: 40/71) and (orientation:portrait) {
+    .menu {
+        max-height: 388px !important;
+    }
+}
+@media all and (max-device-width: 320px) and (device-aspect-ratio: 40/71) and (orientation:landscape) {
+    .menu {
+        max-height: 140px !important;
+    }
+}
+@media all and (max-device-width: 320px) and (orientation:portrait) {
+    .menu {
+        max-height: 300px !important;
+    }
+}
+@media all and (max-device-width: 320px) and (orientation:landscape) {
+    .menu {
+        max-height: 140px !important;
+    }
+}
+@media screen and (min-width: 768px) {
+    .navbar-collapse {
+        display: none;
+    }
+}
+.header--bar a:link, .header--bar a:visited, .header--bar a:active, .header--bar a:hover, .navbar-header a {
+    text-decoration: none;
+    color: #000
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 40
+}
+.menu {
+    font-size: 24px;
+    font-size: 2.4rem;
+    margin-bottom: 10px;
+    text-align: left;
+    overflow-y: scroll;
+    max-height: 75vh;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.dropmenu {
+    margin-bottom: 10px;
+    text-align: left;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.header {
+    width: 100%;
+    padding: 0;
+    background: #fff;
+    height: auto;
+    border-bottom: 1px solid #dbdbdb;
+    box-shadow: 0px 3px 10px 3px rgba(50, 50, 50, 0.5)
+}
+.header--bar {
+    position: relative;
+    height: auto;
+    z-index: 40;
+    /*margin: 0 15px;*/
+    overflow: hidden
+}
+.header__icon--logo {
+    font-family: 'Thaisans Neue-ExtraBold', tahoma, sans-serif;
+    font-size: 35px;
+    font-size: 3.5rem;
+    padding-top: 24px;
+    padding-bottom: 32px;
+    font-style: bolder;
+}
+.padding {
+    height: 90px
+}
+.carousel-inner .active, .carousel .next, .carousel .prev {
+    background: #eee;
+}
+.carousel-inner {
+        -webkit-backface-visibility: hidden;
+        -webkit-perspective: 1000;
+}
+.carousel-inner .item {
+    margin-bottom: -5%;
+}
+.carousel-inner .item a {
+    text-decoration: none;
+}
+.carousel-inner .item:hover, .carousel-inner .item:focus, .carousel-inner .item:hover a, .carousel-inner .item:focus a, .carousel-inner .item:hover .carousel-caption, .carousel-inner .item:focus .carousel-caption {
+    background: #337AB7;
+    color: #fff;
+}
+.carousel-caption {
+    position: relative;
+    right: auto;
+    left: auto;
+    color: #000;
+    font-style: bold;
+}
+.dropmenu ul, .menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: #ddd;
+    border-radius: 0px;
+}
+.dropmenu ul li, .menu ul li {
+    margin: 0;
+}
+.dropmenu ul li a, .menu ul li a {
+    padding: 5px 20px;
+    color: black;
+    text-decoration: none;
+    display: block;
+    -webkit-transition:  background 0.3s ease-in-out;
+    -moz-transition:  background 0.3s ease-in-out;
+    -ms-transition:  background 0.3s ease-in-out;
+    -o-transition:  background 0.3s ease-in-out;
+    transition:  background 0.3s ease-in-out;
+}
+.dropmenu ul li:hover a, .dropmenu ul li:focus a, .menu ul li:hover a, .menu ul li:focus a {
+    background: #aaa;
+}
+.knowledge-collapse ul li:hover a, .knowledge-collapse ul li:focus a {
+    background: #aaa;
+    z-index: 1000
+}
+.boxmenu li {
+    background: #eee;
+    list-style: none;
+    border-radius: 4px;
+    font-size: 2em;
+}
+.boxmenu div a {
+    color: #000;
+    text-decoration: none;
+}
+.boxmenu li:hover, .boxmenu li:focus, .boxmenu li:hover a, .boxmenu li:focus a {
+    background: #337AB7;
+    color: #fff;
+}
+@media (min-width: 1920px) {
+.hidden-xlg {
+    display: none !important;
+}
+.visible-xlg {
+    display: block !important;
+}
+}
+@media (min-width: 1200px) {
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    text-align:left;
+    margin-right:-4px;
+    margin-bottom: -7px;
+}
+}
+.dropdown:hover .collapse {
+    display: block;
+    visibility: visible;
+}
+.sidemenu li {
+    background: #ddd;
+    border-radius: 5px;
+    font-size: 15px;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+.sidemenu li a {
+    font-family: 'ThaiSans Neue-ExtraBold';
+    color: #000;
+}
+.sidemenu li:hover a, .sidemenu li:focus a {
+    background: #aaa;
+}
+#top-link-block.affix-top {
+    position: absolute;
+    bottom: -50px;
+    right: 3%;
+    z-index: 1000;
+}
+#top-link-block.affix {
+    position: fixed;
+    bottom: 60px;
+    right: 3%;
+    z-index: 1000;
+}
+#top-link-block a {
+    color: white;
+    text-decoration:none;
+}
+#top-link-block {
+    background: red;
+    border-radius: 5px;
+    padding: 5px
+}
+.mnav-toggle {
+    padding-top: 18px;
+    padding-right: 2.3%;
+    float:right;
+    padding-left: 2.3%;
+}
+#desktopnav {
+    padding-top: 8px;
+    font-size: 1.8em;
+}
+.deskdrop {
+    text-align: left;
+    font-size: 0.9em;
+}
+#sidebar, #realcontent {
+    vertical-align: top;
+    padding-top: 5px;
+    padding-bottom: 5em;
+}
+#sidehead {
+    background: #000;
+    color: #fff;
+    font-size: 3em;
+    font-style: bolder;
+    font-family: 'Thaisans Neue-ExtraBold';
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#footer {
+    height: auto;
+    background: #fff;
+    border-top: 2px solid #dbdbdb;
+    font-family: 'ThaiSans Neue-ExtraBold';
+    font-size: 1.6em;
+    font-size: 16px;
+}

@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"thai",
+				"ThaiSansNeue-ExtraBold"
+			],
+			[
+				"Thaisa",
+				"ThaiSansNeue-ExtraBold"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"hei",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs",
+		"/Applications/XAMPP/xamppfiles/htdocs/css",
+		"/Applications/XAMPP/xamppfiles/htdocs/js"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/test.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/css/font-awesome.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/css/bootstrap.css",
+		"/Users/KittiposW/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/KittiposW/Documents/css/font-awesome.css",
+		"/Users/KittiposW/Documents/css/style.css",
+		"/Users/KittiposW/Documents/css/bootstrap.css",
+		"/Users/KittiposW/Documents/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/index-1.html",
+		"/Users/KittiposW/Downloads/bootstrap-3.3.2/_config.yml",
+		"/Users/KittiposW/Downloads/bootstrap-3.3.2/bower.json",
+		"/Users/KittiposW/Downloads/bootstrap-3.3.2/composer.json",
+		"/Users/KittiposW/Downloads/bootstrap-3.3.2/CONTRIBUTING.md",
+		"/Users/KittiposW/Downloads/bootstrap-3.3.2/Gruntfile.js",
+		"/Users/KittiposW/Downloads/bootstrap-3.3.2/package.json",
+		"/Users/KittiposW/Downloads/bootstrap-3.3.2/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/dashboard/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/dashboard/404.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bitnami.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/applications.html"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			".header--bar",
+			".button",
+			"button",
+			"menu",
+			"content",
+			"header--bar",
+			"height",
+			" ",
+			";",
+			"style",
+			"circle",
+			"up",
+			"active",
+			".menu",
+			"visible-xlg",
+			".visible-lg",
+			"padding-bottom",
+			"header",
+			"dn",
+			"header--bar",
+			"visible-xs f",
+			"header",
+			"navbar-collapse",
+			"icon",
+			"navbar-collapse",
+			"h3",
+			"li",
+			"boxmenu",
+			"carousel",
+			".carousel",
+			".carousel ",
+			"carousel",
+			"h3",
+			"nav-pills",
+			"nav-stacked ",
+			"active",
+			"h1",
+			"glyphicon-",
+			"glyphicon",
+			".nav",
+			" >",
+			"style=\"width: 33%\">",
+			"carousel-inn",
+			"carousel",
+			"active",
+			"translateX",
+			", 0, 0)",
+			"translate3d",
+			"active",
+			"slide",
+			"carousel",
+			"slide",
+			"carousel",
+			"hidden",
+			"img-center",
+			"left",
+			"sidebar",
+			"collapse",
+			"presentation",
+			"dropdown",
+			"a:",
+			"icon--logo",
+			"icon",
+			"center",
+			"zone",
+			"0b0b0b",
+			"panel",
+			"wrapper",
+			"single",
+			"post",
+			"single-post",
+			"single",
+			"h1",
+			"menu",
+			"apple",
+			"font-family",
+			"helvetica Neue",
+			"font-family",
+			"font-face",
+			"font",
+			"visible",
+			"clearfix",
+			"span1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".header",
+			"#logo",
+			"max-height",
+			"hidden-xs hidden-sm hidden-md hidden-lg",
+			"f",
+			"h2",
+			".item",
+			"carousel-inner",
+			"h2",
+			">",
+			"translate",
+			")",
+			"translateX",
+			"center-block",
+			"top",
+			"Menu",
+			"col-md-1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "local.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/local.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
